@@ -1,3 +1,4 @@
+package SumOfNo;
 import java.util.*;
 
 class SumOfNo {
